@@ -1,0 +1,3 @@
+add_subdirectory(gameClient)
+add_subdirectory(gameServer)
+add_subdirectory(demo)
